@@ -1,16 +1,17 @@
-                                                      👋 Hi, I’m Ahmed Abouelnaga
-- 👀 I’m a junior at Columbia University studying Computer Science
-- 🌱 I’m currently learning Penetration Testing and Reverse Engineering
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me abouelnagaa2004@gmail.com
+# Hi 👋, I'm [Ahmed Abouelnaga]
 
-<!---
-iamahmedd/iamahmedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Connect with me via:
-<p>
-  <a href="https://www.linkedin.com/in/ahmed-abouelnaga-2a8017208/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> 
-</p>
+• 🎓 I'm currently a [Junior] at [Columbia University] studying [Computer Science].
+
+• 💻 I'm currently learning [].
+
+• 👥 I'm looking to collaborate on [open source projects].
+
+• 💭 Ask me about [Anything].
+
+• 📫 How to reach me: [abouelnagaa2004@gmail.com]
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abouelnaga-2a8017208/)
+
+
+
