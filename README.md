@@ -2,11 +2,11 @@
 
 • 🎓 I'm currently a Junior at Columbia University studying Computer Science.
 
-• 💻 I'm currently learning Software Engineering, Penetration Testing, and Networking.
+• 💻 I'm currently learning Full Stack Development and Penetration Testing.
 
 • 👥 I'm looking to collaborate on open-source projects.
 
-• 💭 Ask me about Anything.
+• 💭 Ask me about Penetration Testing, Network Security, and Backend Development.
 
 • 📫 How to reach me: abouelnagaa2004@gmail.com
 
