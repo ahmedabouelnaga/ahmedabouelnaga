@@ -1,10 +1,10 @@
-# Hi 👋, I'm [Ahmed Abouelnaga]
+# Hi 👋, I'm Ahmed Abouelnaga
 
-• 🎓 I'm currently a [Junior] at [Columbia University] studying [Computer Science].
+• 🎓 I'm currently a Junior at Columbia University studying Computer Science.
 
-• 💻 I'm currently learning [].
+• 💻 I'm currently learning Software Engineering, Penetration Testing, and Networking.
 
-• 👥 I'm looking to collaborate on [open source projects].
+• 👥 I'm looking to collaborate on [open-source projects].
 
 • 💭 Ask me about [Anything].
 
