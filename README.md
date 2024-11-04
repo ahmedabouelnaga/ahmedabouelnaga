@@ -6,7 +6,7 @@
 
 • 👥 I'm looking to collaborate on open-source projects.
 
-• 💭 Ask me about Penetration Testing, Network Security, and Backend Development.
+• 💭 Ask me about Full Stack Development, Penetration Testing, and Network Security
 
 • 📫 How to reach me: abouelnagaa2004@gmail.com
 
