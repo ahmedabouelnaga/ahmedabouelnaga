@@ -2,7 +2,7 @@
 
 • 🎓 I'm currently a Junior at Columbia University studying Computer Science.
 
-• 💻 I'm currently learning Full Stack Development and Penetration Testing.
+• 💻 I'm currently learning Full Stack Development.
 
 • 👥 I'm looking to collaborate on open-source projects.
 
