@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmed Abouelnaga
 
-• 🎓 I'm currently a Junior at Columbia University studying Computer Science.
+• 🎓 I'm currently a Senior at Columbia University studying Computer Science.
 
 • 💻 I'm currently learning Full Stack Development.
 
